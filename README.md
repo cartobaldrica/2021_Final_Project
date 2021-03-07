@@ -2,6 +2,7 @@
 
 ### Team Members
 1. Lambert Molleweide
+2. Gnomonic Azimuth
 
 ### Final Proposal
 1. Persona/Scenario
