@@ -10,9 +10,10 @@
     1. Persona
     2. Scenario
 2. Requirements Document
-
+    1. Representatoin
+    2. Interaction
 3. Wireframes
-
+    1. ![Wireframe](wireframe.png)
 
 
 
