@@ -1,7 +1,7 @@
 # Team Name
 
 ### Team Members
-1. Albers Eckert the 4th
+1. Lambert Molleweide
 
 ### Final Proposal
 1. Persona/Scenario
