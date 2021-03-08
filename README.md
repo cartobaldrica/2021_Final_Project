@@ -12,6 +12,7 @@
 2. Requirements Document
     1. Representation
     2. Interaction
+        1. Retrieve
 3. Wireframes
     1. ![Wireframe](wireframe.png)
 
