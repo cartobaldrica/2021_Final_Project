@@ -12,7 +12,11 @@
 2. Requirements Document
     1. Representation
     2. Interaction
+<<<<<<< HEAD
         1. Retrieve
+=======
+        1. Search
+>>>>>>> 27d0aeed2ebdc5efcbed588a04dc820b45f5e5c4
 3. Wireframes
     1. ![Wireframe](wireframe.png)
 
