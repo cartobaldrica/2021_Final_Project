@@ -13,6 +13,7 @@
     1. Representation
     2. Interaction  
         1. Retrieve
+        1. Search
 3. Wireframes
     1. ![Wireframe](wireframe.png)
 
